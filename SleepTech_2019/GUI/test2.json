@@ -1,0 +1,22 @@
+{
+    "present":{
+    	"temperature":28,
+    	"humidity": 55 ,
+    	"luminance": 500
+    },
+    "book2":{
+        "title": "Python Developers",
+        "year": 2006 ,
+		"page": 650 
+    },
+    "book3":{
+    	"title":"Python cookbook",
+    	"year": 2002 ,
+		"page": 344 
+    },
+	"book4":{
+        "title": "Python Dictionary",
+        "year": 2012 ,
+    	"page": 1024 
+	}
+}
